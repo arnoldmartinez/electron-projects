@@ -4,6 +4,8 @@
 
 ### Installation
 
-#### Install on windows system
+#### Install on Windows System
 
 - Node.js
+
+#### Install on Linux System
