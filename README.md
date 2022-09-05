@@ -13,4 +13,4 @@
 #### Install on Mac OS
 
 
-#### Install git
+#### Install git on Mac OS
