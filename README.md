@@ -15,4 +15,6 @@
 
 #### Install git on Mac OS
 
-#### Install git on windows 
+#### Install git on Windows 
+
+#### Install git on Linux 
