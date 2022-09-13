@@ -20,3 +20,5 @@
 #### Install git on Linux 
 
 #### Install Node.js on Mac OS
+
+#### Install Node.js on Windows
