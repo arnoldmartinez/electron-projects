@@ -12,8 +12,6 @@
 
 2. Download and run the installation file. Proceed with the setup wizard and use the default settings—these are usually pretty reasonable.
 
-
-
 ### Install on Linux System
 
 #### Install Node.js on Linux
@@ -45,7 +43,29 @@ npm --version
 
 The version number should be 5.8.0 or higher.
 
-#### Install on Mac OS
+### Install on Mac OS
+
+#### Install Node.js on Mac OS
+
+You can find the necessary installation packages by navigating to https://nodejs.org
+
+Note  that Node.js typically comes in two flavors: the Long-Term Support(LTS) version, which is suitable for most users, and the Current version, which provides the most cutting-edge features and enhancements.
+
+1. First we need to download and install Node.js The website automatically detects your browser and platform and suggest the appropiate packages for you to download. For macOS, you are going to see the Download for macOS (x64) label and two big download buttons.
+
+2. Choose any version and click the corresponding button to get the relevant installer package. The installation process for the macOS platform is pretty straighforward. Keep all the default settings; proceed with the wizard's step until the setup is over.
+
+3. In the terminal application, run the following commands to verify that you have Node.js and NPM installed on your machine:
+
+node -v
+npm -v
+
+4. The system's output should be similar to the following, though their version may vary:
+
+v12.13.0
+6.12.1
+
+Congratulations! You've successfully installed Node.js on your macOS.
 
 #### Install git on Mac OS
 
@@ -53,4 +73,3 @@ The version number should be 5.8.0 or higher.
 
 #### Install git on Linux 
 
-#### Install Node.js on Mac OS
