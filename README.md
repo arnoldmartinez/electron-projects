@@ -6,6 +6,8 @@
 
 ### Install on Windows System
 
+#### Install VSCode on Windos
+
 #### Install Node.js on Windows
 
 1. Navigate to https://nodejs.org/en and get the corresponding installer. Note that the website detects your platform for you and suggests the corresponding installer package. For Windows, you are going to see the Download for Windows (x64) label and two buttons where you can select either the LTS, that is, the stable LTS version, or a current one, with the most recent cutting-edge features.
