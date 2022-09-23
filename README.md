@@ -4,8 +4,6 @@
 
 ### Installation
 
-### Install IDE
-
 #### Install Visual Studio Code
 
 Setting up Visual Studio Code is very simple and, thanks to Electron's support, the process doesn't differ much across platform. Let's get started:
