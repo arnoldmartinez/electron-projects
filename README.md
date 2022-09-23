@@ -4,9 +4,18 @@
 
 ### Installation
 
-### Install on Windows System
+### Install IDE
 
-#### Install VSCode on Windos
+#### Install Visual Studio Code
+
+Setting up Visual Studio Code is very simple and, thanks to Electron's support, the process doesn't differ much across platform. Let's get started:
+
+1. Navigate to https://code.visualstudio.com/. An installation package will be suggested to you regarding you current operating system. It is also possible to choose from a list of available distributions.
+
+2. Click the big Download button to get a .dmg installer form macOS, an .msi file for Windows, or a .deb package for Debian-based Linux distributions.
+3. Run the corresponding file and follow the on screen instructions. You don't need to customize anything during the setup process.
+
+### Install on Windows System
 
 #### Install Node.js on Windows
 
@@ -15,6 +24,10 @@
 2. Download and run the installation file. Proceed with the setup wizard and use the default settings—these are usually pretty reasonable.
 
 ### Install on Linux System
+
+#### Installing Visual Studio Code for Ubuntu
+
+If you are using Ubuntu Linux as your primary development machine, you can download Visual Studio Code from the Ubuntu Software Center. Just type code or visual studio code into the search box - you should get the link to the corresponding package.
 
 #### Install Node.js on Linux
 
