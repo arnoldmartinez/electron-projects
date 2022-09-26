@@ -78,6 +78,5 @@ npm -v
 v12.13.0
 6.12.1
 
-Congratulations! You've successfully installed Node.js on your macOS.
  
 
