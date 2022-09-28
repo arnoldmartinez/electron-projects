@@ -58,7 +58,19 @@ The version number should be 5.8.0 or higher.
 
 ### Install on Mac OS
 
-#### Install Node.js on Mac OS
+#### Installing Git
+
+Git comes preinstalled with all macOS versions. To verify this, launch the terminal application and run the following command:
+
+git --version
+
+The output should be similar to the following:
+
+git version 2.17.2 (Apple Git-113)
+
+Please note that it isn't critical if your system's version of Git doesn't match the one in this example.
+
+#### Install Node.js
 
 You can find the necessary installation packages by navigating to https://nodejs.org
 
