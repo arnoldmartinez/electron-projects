@@ -27,6 +27,8 @@ Setting up Visual Studio Code is very simple and, thanks to Electron's support, 
 
 If you are using Ubuntu Linux as your primary development machine, you can download Visual Studio Code from the Ubuntu Software Center. Just type code or visual studio code into the search box - you should get the link to the corresponding package.
 
+#### Installing Git
+
 #### Install Node.js on Linux
 
 Ubuntu usually doesn't ship with the Node.js and NPM tools out of the box. You need to install them
