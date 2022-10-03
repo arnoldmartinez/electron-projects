@@ -29,6 +29,16 @@ If you are using Ubuntu Linux as your primary development machine, you can downl
 
 #### Installing Git
 
+You can check whether you have Git installed by running the following command:
+
+git --version
+
+Typically, Git is not present on fresh installations of Ubuntu. To get it, run the following command:
+
+sudo apt install -y git
+
+Please note that you need to enter the administrator password to proceed.
+
 #### Install Node.js on Linux
 
 Ubuntu usually doesn't ship with the Node.js and NPM tools out of the box. You need to install them
