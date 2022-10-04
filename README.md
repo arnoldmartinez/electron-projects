@@ -94,13 +94,14 @@ Note  that Node.js typically comes in two flavors: the Long-Term Support(LTS) ve
 
 3. In the terminal application, run the following commands to verify that you have Node.js and NPM installed on your machine:
 
-node -v
-npm -v
+> node -v
+
+> npm -v
 
 4. The system's output should be similar to the following, though their version may vary:
 
-v12.13.0
-6.12.1
+> v12.13.0
+> 6.12.1
 
  
 
