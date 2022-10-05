@@ -74,7 +74,7 @@ The version number should be 5.8.0 or higher.
 
 Git comes preinstalled with all macOS versions. To verify this, launch the terminal application and run the following command:
 
-git --version
+> git --version
 
 The output should be similar to the following:
 
