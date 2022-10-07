@@ -64,7 +64,7 @@ sudo apt install -y npm
 
 2. The fastest way to check that NPM has been installed is to check its version. You can do so by using the following command:
 
-npm --version
+> npm --version
 
 The version number should be 5.8.0 or higher.
 
