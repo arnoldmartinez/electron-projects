@@ -31,7 +31,7 @@ If you are using Ubuntu Linux as your primary development machine, you can downl
 
 You can check whether you have Git installed by running the following command:
 
-git --version
+> git --version
 
 Typically, Git is not present on fresh installations of Ubuntu. To get it, run the following command:
 
