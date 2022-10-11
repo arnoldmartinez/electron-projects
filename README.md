@@ -35,7 +35,7 @@ You can check whether you have Git installed by running the following command:
 
 Typically, Git is not present on fresh installations of Ubuntu. To get it, run the following command:
 
-sudo apt install -y git
+> sudo apt install -y git
 
 Please note that you need to enter the administrator password to proceed.
 
