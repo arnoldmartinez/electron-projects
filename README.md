@@ -52,7 +52,7 @@ sudo apt install -y nodejs
 
 2.- Now, we need to verify that Node.js has been installed. You can check the version that you've installed in the Terminal application by using the following command:
 
-node --version
+>     node --version
 
 The system's output, which will be the version's value, will be for instance v8.11.4 or higher.
 
