@@ -84,7 +84,7 @@ Please note that it isn't critical if your system's version of Git doesn't match
 
 #### Install Node.js
 
-You can find the necessary installation packages by navigating to https://nodejs.org
+You can find the necessary installation packages by navigating to: https://nodejs.org
 
 Note  that Node.js typically comes in two flavors: the Long-Term Support(LTS) version, which is suitable for most users, and the Current version, which provides the most cutting-edge features and enhancements.
 
