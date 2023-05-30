@@ -100,5 +100,5 @@ Note  that Node.js typically comes in two flavors: the Long-Term Support(LTS) ve
 
 4. The system's output should be similar to the following, though their version may vary:
 
-> v12.13.0
-> 6.12.1
+>     v12.13.0
+>     6.12.1
